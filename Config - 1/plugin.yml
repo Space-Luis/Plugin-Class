@@ -1,0 +1,22 @@
+#################
+
+# 플러그인의 이름
+name: Config - 1
+
+# 플러그인의 메인파일 위치
+main: SpaceLuis\Main
+
+# 플러그인의 제작자
+author: SpaceLuis
+
+# 플러그인의 버전
+version: S1
+
+# 플러그인의 API 버전
+api: 3.0.0
+
+# 플러그인의 커맨드
+commands:
+  테스트:
+    description: 플러그인 콘피그 테스트
+#################
